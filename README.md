@@ -2,6 +2,9 @@
 NitroGnC stands for: Nitro Generator and Checker
 
 what is NitroGnc: A really simple c# tool to automate generating nitro code and parse it to checker automated | get valid nitro code without setup
+
+# Preview
+
 ![Screenshot_92](https://github.com/MyKryptonite/Nitro-Generator-Checker/assets/138227664/59a22073-6d26-47f5-ae26-401217caf2bf)
 ![ezgif com-crop (3)](https://github.com/MyKryptonite/Nitro-Generator-Checker/assets/138227664/fe1d458e-34f4-4f0d-ac3a-69de53fa5a3c)
 
