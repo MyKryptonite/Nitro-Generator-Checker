@@ -1,0 +1,17 @@
+D:\My project (1)\Nitro gen n check\Nitro gen n check\bin\Debug\net6.0\Nitro gen n check.exe
+D:\My project (1)\Nitro gen n check\Nitro gen n check\bin\Debug\net6.0\Nitro gen n check.deps.json
+D:\My project (1)\Nitro gen n check\Nitro gen n check\bin\Debug\net6.0\Nitro gen n check.runtimeconfig.json
+D:\My project (1)\Nitro gen n check\Nitro gen n check\bin\Debug\net6.0\Nitro gen n check.dll
+D:\My project (1)\Nitro gen n check\Nitro gen n check\bin\Debug\net6.0\Nitro gen n check.pdb
+D:\My project (1)\Nitro gen n check\Nitro gen n check\bin\Debug\net6.0\Colorful.Console.dll
+D:\My project (1)\Nitro gen n check\Nitro gen n check\obj\Debug\net6.0\Nitro gen n check.csproj.AssemblyReference.cache
+D:\My project (1)\Nitro gen n check\Nitro gen n check\obj\Debug\net6.0\Nitro gen n check.GeneratedMSBuildEditorConfig.editorconfig
+D:\My project (1)\Nitro gen n check\Nitro gen n check\obj\Debug\net6.0\Nitro gen n check.AssemblyInfoInputs.cache
+D:\My project (1)\Nitro gen n check\Nitro gen n check\obj\Debug\net6.0\Nitro gen n check.AssemblyInfo.cs
+D:\My project (1)\Nitro gen n check\Nitro gen n check\obj\Debug\net6.0\Nitro gen n check.csproj.CoreCompileInputs.cache
+D:\My project (1)\Nitro gen n check\Nitro gen n check\obj\Debug\net6.0\Nitro gen n check.csproj.CopyComplete
+D:\My project (1)\Nitro gen n check\Nitro gen n check\obj\Debug\net6.0\Nitro gen n check.dll
+D:\My project (1)\Nitro gen n check\Nitro gen n check\obj\Debug\net6.0\refint\Nitro gen n check.dll
+D:\My project (1)\Nitro gen n check\Nitro gen n check\obj\Debug\net6.0\Nitro gen n check.pdb
+D:\My project (1)\Nitro gen n check\Nitro gen n check\obj\Debug\net6.0\Nitro gen n check.genruntimeconfig.cache
+D:\My project (1)\Nitro gen n check\Nitro gen n check\obj\Debug\net6.0\ref\Nitro gen n check.dll
